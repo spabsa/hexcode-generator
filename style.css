@@ -1,0 +1,21 @@
+body {
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+button {
+	margin-left: 10px;
+	font-family: concert one;
+	padding: 5px 10px;
+	font-weight: bold;
+	font-size: 1.4em;
+	border-radius: 7px;
+	cursor: pointer;
+	background-color: rgb(229, 224, 224);
+}
+
+button:hover {
+	background-color: lightgrey;
+}
